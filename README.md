@@ -1,85 +1,97 @@
-# Privacy Policy
-# 1. Terms and Definitions
-1.1. Telegram – Telegram Messenger Inc (also “we”).
-1.2. Platform – The Telegram Bot Platform.
-1.3. Developer – The person or legal entity who operates and maintains Third-Party Service, as further defined in 3.1.
-1.4. Third-Party Service – The bot or mini app of Developer, made available to users on Platform.
-1.5. User – The person accessing Third-Party Service via their account on Platform (also “you”).
-1.6. Policy – This document, governing the relationship between Third-Party Service and User.
-
-# 2. General Provisions
-2.1. Policy is a standard document which applies to all third-party bots and mini apps on Platform by default, unless or until their respective developer has published a separate privacy policy.
-
-2.2. Policy governs solely the relationship between Developer and User. It cannot and does not regulate the relationship between Telegram and its users, nor does it supersede the Telegram Privacy Policy.
-
-2.3 Developer follows all privacy guidelines set forth by platforms that distribute Telegram apps, including Apple's App Review Guidelines and Google's Developer Policies.
-
-2.4. Policy regulates the collection, storage, distribution, usage and protection of information of Users who access Third-Party Service.
-
-2.5. Your continued access to and use of Third-Party Service shall constitute your acceptance of Policy, the Telegram Bot Terms and the Telegram Mini App Terms.
-
-2.6. Note that this default Policy is meant to aid Developer in providing a functional privacy policy to their Users, with the understanding that the Policy is written to be generally applicable to a wide range of services. Accordingly, if Developer opts to use the Policy, it is solely their responsibility to ensure that the Policy fits the Developer’s use case and complies with all local laws.
-
-2.7. If you do not accept all the aforementioned terms, you should immediately cease your use of Third-Party Service.
-
-#3. Disclaimers
-3.1. Third-Party Service is an independent third-party application that is neither maintained, endorsed, nor affiliated with Telegram. Developer is the person or entity defined as such, for example within the Terms of Service of Third-Party Service, its interfaces or in its response to the /developer_info command.
-
-3.2. You understand and agree that, without limiting section 8, this Policy may be amended at any time, and it is your responsibility to review and agree to all changes.
-
-3.3. You acknowledge that you have read, understood and agreed to the Telegram Bot Terms and the Telegram Mini App Terms, as well as any other terms made available to you by Developer.
-
-3.4. You acknowledge and warrant that you possess all the necessary rights and permissions to use Third-Party Service in compliance with applicable local laws and legal obligations, including without limitation age restrictions and third-party store terms.
-
-3.5. Developer operates under the understanding that all information you provide is submitted in good-faith, and is not obligated to check or verify your statements for errors or inaccuracies. It is your responsibility to ensure that all information you provide is accurate and up-to-date.
-
-3.6. You may decide to make some information available in the public domain, either directly on Platform, elsewhere on the internet, or via Third-Party Service. The information you choose to make public may be accessed by other users of Third-Party Service via Platform or on the internet, in which case it will not be covered or protected by Policy.
-
-# 4. Collection of Personal Data
-4.1. The ways in which Platform natively allows Third-Party Service to access certain limited information from and about User are described in the Telegram Privacy Policy and Mini App Terms.
-
-4.2. Without limiting section 4.1., Third-Party Service has the ability to receive additional data from you if you send it messages, upload files to it, or choose to share personal information such as your contact or phone number.
-
-4.3. If Third-Party Service is a mini app, it may also receive additional data as detailed in sections 4.1. and 4.2. of the Mini App Terms. In this case, Third-Party Service may also acquire additional information as a result of your interactions with it.
-
-4.4. Third-Party Service may collect anonymous data that is not linked to you in any way, such as anonymized diagnostics or usage statistics.
-
-# 5. Processing of Personal Data
-5.1. Third-Party Service only requests, collects, processes and stores data that is necessary for its designated features to function properly. Third-Party Service processes your personal data on the legal ground that such processing is necessary to further its legitimate interests, including (i) providing services to its users; (ii) detecting and addressing security issues in respect of its provision of services; unless those interests are overridden by your interest or fundamental rights and freedoms that require protections of personal data.
-
-5.2. Developer does not monetize or otherwise utilize user data for applications outside the scope of Third-Party Service, unless otherwise clearly stated by Developer and explicitly agreed to by User.
-
-5.3. Without limiting section 6.2., private user information will not be transferred or made accessible to any third party, except as stipulated by Policy and agreed to by User.
-
-5.4. In any event, Developer will only collect or otherwise aggregate user data in compliance with applicable laws, third-party store terms, and for no other purposes than those clearly stated in Policy and necessary to furnish and enhance the functionality of Third-Party Service.
-
-# 6. Data Protection
-6.1. Developer employs robust security measures to protect the integrity and confidentiality of all data it processes. User information is handled, transferred and stored in compliance with applicable laws, including all necessary precautions to prevent unauthorized access, modification, deletion, or distribution.
-
-6.2. Developer will never share user data with third parties, including with Developer’s own additional services or bots (if any, as the case may be) unless explicitly authorized by User or required by law, such as in response to a lawful court order.
-
-# 7. Rights and Obligations
-7.1. Telegram may:
-(a) delete data sent from User to Third-Party Service from its servers in response to abuse of Platform by either User or Developer. This deletion may include sent messages, mini app cloud storage, the entire chat with Third-Party Service, or Third-Party Service itself as the case may be;
-
-7.2. Developer may:
-(a) seek verification of the identity of the User submitting data requests if they suspect unauthorized access to or misuse of personal information;
-(b) impose reasonable limits on the number of data requests User can submit within a given timeframe, in order to prevent abuse of the request system. In any event, these limits cannot undermine User’s rights under applicable law;
-
-7.3. Developer shall:
-(a) comply with the stipulations set forth in Policy, or those outlined in any additional or substitute Policy they choose to enact, provided that neither can supersede the Telegram Terms of Service, and, by extension, the Telegram Bot Developer Terms;
-(b) provide an easily accessible avenue for User to consult Policy, and for them to exercise all rights Policy entitles them to under applicable law;
-(c) promptly process and respond to lawful requests from users within the timeframes allowed by applicable law, and, in any event, no later than 30 days from the date the request was submitted.
-
-7.3. User may:
-(a) submit a request to Developer for a copy of all personal data Third-Party Service collected and stored in connection with them;
-(b) submit a request to Developer for the timely deletion of all personal data Third-Party Service collected and stored in connection with them, with the exception of essential data that Developer may preserve if and as permitted by applicable law. Examples of essential data vary by jurisdiction and may include but are not limited to data required for performing legal obligations, defense of legal claims, public interest or transactional history for the purpose of fulfilling tax obligations;
-(c) amend, restrict, or object to the processing of their data, or exercise the option to revoke any previously given consent at any time and for any reason, including withdrawing from Policy entirely and discontinuing their use of Third-Party Service;
-(d) lodge a complaint with national data protection authorities having jurisdiction if they believe their rights are not being upheld by Developer.
-
-7.4. User shall:
-(a) provide accurate and up-to-date information when submitting data requests to Developer, and cooperate with any reasonable measures necessary for Developer to fulfill these requests;
-(b) adhere to the terms set forth in Policy and any additional policy enacted by Developer or Telegram.
-
-# 8. Changes to this Privacy Policy
-While we do not anticipate frequent changes, we will review and may update this Privacy Policy from time to time. Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on this page https://zubrtog.vass-group.xyz/privacy-tpa. Please check our website frequently to see any updates or changes to this Privacy Policy, a summary of which we will set out below.
+# Политика в отношении обработки персональных данных
+## 1. Общие положения
+Настоящая политика обработки персональных данных составлена в соответствии с требованиями Федерального закона от 27.07.2006. № 152-ФЗ «О персональных данных» (далее — Закон о персональных данных) и определяет порядок обработки персональных данных и меры по обеспечению безопасности персональных данных, предпринимаемые Никитко Сергеем Александровичем (далее — Оператор).
+1.1. Оператор ставит своей важнейшей целью и условием осуществления своей деятельности соблюдение прав и свобод человека и гражданина при обработке его персональных данных, в том числе защиты прав на неприкосновенность частной жизни, личную и семейную тайну.
+1.2. Настоящая политика Оператора в отношении обработки персональных данных (далее — Политика) применяется ко всей информации, которую Оператор может получить о посетителях чат-бота [https://menu](https://zubrtog.vass-group.xyz/) Zubrtog.
+## 2. Основные понятия, используемые в Политике
+2.1. Автоматизированная обработка персональных данных — обработка персональных данных с помощью средств вычислительной техники.
+2.2. Блокирование персональных данных — временное прекращение обработки персональных данных (за исключением случаев, если обработка необходима для уточнения персональных данных).
+2.3. Веб-сайт — совокупность графических и информационных материалов, а также программ для ЭВМ и баз данных, обеспечивающих их доступность в сети интернет по сетевому адресу https://menu Меню.
+2.4. Информационная система персональных данных — совокупность содержащихся в базах данных персональных данных и обеспечивающих их обработку информационных технологий и технических средств.
+2.5. Обезличивание персональных данных — действия, в результате которых невозможно определить без использования дополнительной информации принадлежность персональных данных конкретному Пользователю или иному субъекту персональных данных.
+2.6. Обработка персональных данных — любое действие (операция) или совокупность действий (операций), совершаемых с использованием средств автоматизации или без использования таких средств с персональными данными, включая сбор, запись, систематизацию, накопление, хранение, уточнение (обновление, изменение), извлечение, использование, передачу (распространение, предоставление, доступ), обезличивание, блокирование, удаление, уничтожение персональных данных.
+2.7. Оператор — государственный орган, муниципальный орган, юридическое или физическое лицо, самостоятельно или совместно с другими лицами организующие и/или осуществляющие обработку персональных данных, а также определяющие цели обработки персональных данных, состав персональных данных, подлежащих обработке, действия (операции), совершаемые с персональными данными.
+2.8. Персональные данные — любая информация, относящаяся прямо или косвенно к определенному или определяемому Пользователю чат-бота [https://menu](https://zubrtog.vass-group.xyz/) Zubrtog.
+2.9. Персональные данные, разрешенные субъектом персональных данных для распространения, — персональные данные, доступ неограниченного круга лиц к которым предоставлен субъектом персональных данных путем дачи согласия на обработку персональных данных, разрешенных субъектом персональных данных для распространения в порядке, предусмотренном Законом о персональных данных (далее — персональные данные, разрешенные для распространения).
+2.10. Пользователь — любой посетитель чат-бота [https://menu](https://zubrtog.vass-group.xyz/) Zubrtog.
+2.11. Предоставление персональных данных — действия, направленные на раскрытие персональных данных определенному лицу или определенному кругу лиц.
+2.12. Распространение персональных данных — любые действия, направленные на раскрытие персональных данных неопределенному кругу лиц (передача персональных данных) или на ознакомление с персональными данными неограниченного круга лиц, в том числе обнародование персональных данных в средствах массовой информации, размещение в информационно-телекоммуникационных сетях или предоставление доступа к персональным данным каким-либо иным способом.
+2.13. Трансграничная передача персональных данных — передача персональных данных на территорию иностранного государства органу власти иностранного государства, иностранному физическому или иностранному юридическому лицу.
+2.14. Уничтожение персональных данных — любые действия, в результате которых персональные данные уничтожаются безвозвратно с невозможностью дальнейшего восстановления содержания персональных данных в информационной системе персональных данных и/или уничтожаются материальные носители персональных данных.
+## 3. Основные права и обязанности Оператора
+3.1. Оператор имеет право:
+— получать от субъекта персональных данных достоверные информацию и/или документы, содержащие персональные данные;
+— в случае отзыва субъектом персональных данных согласия на обработку персональных данных, а также, направления обращения с требованием о прекращении обработки персональных данных, Оператор вправе продолжить обработку персональных данных без согласия субъекта персональных данных при наличии оснований, указанных в Законе о персональных данных;
+— самостоятельно определять состав и перечень мер, необходимых и достаточных для обеспечения выполнения обязанностей, предусмотренных Законом о персональных данных и принятыми в соответствии с ним нормативными правовыми актами, если иное не предусмотрено Законом о персональных данных или другими федеральными законами.
+3.2. Оператор обязан:
+— предоставлять субъекту персональных данных по его просьбе информацию, касающуюся обработки его персональных данных;
+— организовывать обработку персональных данных в порядке, установленном действующим законодательством РФ;
+— отвечать на обращения и запросы субъектов персональных данных и их законных представителей в соответствии с требованиями Закона о персональных данных;
+— сообщать в уполномоченный орган по защите прав субъектов персональных данных по запросу этого органа необходимую информацию в течение 10 дней с даты получения такого запроса;
+— публиковать или иным образом обеспечивать неограниченный доступ к настоящей Политике в отношении обработки персональных данных;
+— принимать правовые, организационные и технические меры для защиты персональных данных от неправомерного или случайного доступа к ним, уничтожения, изменения, блокирования, копирования, предоставления, распространения персональных данных, а также от иных неправомерных действий в отношении персональных данных;
+— прекратить передачу (распространение, предоставление, доступ) персональных данных, прекратить обработку и уничтожить персональные данные в порядке и случаях, предусмотренных Законом о персональных данных;
+— исполнять иные обязанности, предусмотренные Законом о персональных данных.
+## 4. Основные права и обязанности субъектов персональных данных
+4.1. Субъекты персональных данных имеют право:
+— получать информацию, касающуюся обработки его персональных данных, за исключением случаев, предусмотренных федеральными законами. Сведения предоставляются субъекту персональных данных Оператором в доступной форме, и в них не должны содержаться персональные данные, относящиеся к другим субъектам персональных данных, за исключением случаев, когда имеются законные основания для раскрытия таких персональных данных. Перечень информации и порядок ее получения установлен Законом о персональных данных;
+— требовать от оператора уточнения его персональных данных, их блокирования или уничтожения в случае, если персональные данные являются неполными, устаревшими, неточными, незаконно полученными или не являются необходимыми для заявленной цели обработки, а также принимать предусмотренные законом меры по защите своих прав;
+— выдвигать условие предварительного согласия при обработке персональных данных в целях продвижения на рынке товаров, работ и услуг;
+— на отзыв согласия на обработку персональных данных, а также, на направление требования о прекращении обработки персональных данных;
+— обжаловать в уполномоченный орган по защите прав субъектов персональных данных или в судебном порядке неправомерные действия или бездействие Оператора при обработке его персональных данных;
+— на осуществление иных прав, предусмотренных законодательством РФ.
+4.2. Субъекты персональных данных обязаны:
+— предоставлять Оператору достоверные данные о себе;
+— сообщать Оператору об уточнении (обновлении, изменении) своих персональных данных.
+4.3. Лица, передавшие Оператору недостоверные сведения о себе, либо сведения о другом субъекте персональных данных без согласия последнего, несут ответственность в соответствии с законодательством РФ.
+## 5. Принципы обработки персональных данных
+5.1. Обработка персональных данных осуществляется на законной и справедливой основе.
+5.2. Обработка персональных данных ограничивается достижением конкретных, заранее определенных и законных целей. Не допускается обработка персональных данных, несовместимая с целями сбора персональных данных.
+5.3. Не допускается объединение баз данных, содержащих персональные данные, обработка которых осуществляется в целях, несовместимых между собой.
+5.4. Обработке подлежат только персональные данные, которые отвечают целям их обработки.
+5.5. Содержание и объем обрабатываемых персональных данных соответствуют заявленным целям обработки. Не допускается избыточность обрабатываемых персональных данных по отношению к заявленным целям их обработки.
+5.6. При обработке персональных данных обеспечивается точность персональных данных, их достаточность, а в необходимых случаях и актуальность по отношению к целям обработки персональных данных. Оператор принимает необходимые меры и/или обеспечивает их принятие по удалению или уточнению неполных или неточных данных.
+5.7. Хранение персональных данных осуществляется в форме, позволяющей определить субъекта персональных данных, не дольше, чем этого требуют цели обработки персональных данных, если срок хранения персональных данных не установлен федеральным законом, договором, стороной которого, выгодоприобретателем или поручителем по которому является субъект персональных данных. Обрабатываемые персональные данные уничтожаются либо обезличиваются по достижении целей обработки или в случае утраты необходимости в достижении этих целей, если иное не предусмотрено федеральным законом.
+## 6. Цели обработки персональных данных
+Цель обработки	Доступ к Telegram боту
+Персональные данные	
+электронный адрес
+фотографии
+фамилия и имя
+Открытые данные пользователя
+Правовые основания	
+уставные (учредительные) документы Оператора
+Виды обработки персональных данных	
+Сбор, запись, систематизация, накопление, хранение, уничтожение и обезличивание персональных данных
+## 7. Условия обработки персональных данных
+7.1. Обработка персональных данных осуществляется с согласия субъекта персональных данных на обработку его персональных данных.
+7.2. Обработка персональных данных необходима для достижения целей, предусмотренных международным договором Российской Федерации или законом, для осуществления возложенных законодательством Российской Федерации на оператора функций, полномочий и обязанностей.
+7.3. Обработка персональных данных необходима для осуществления правосудия, исполнения судебного акта, акта другого органа или должностного лица, подлежащих исполнению в соответствии с законодательством Российской Федерации об исполнительном производстве.
+7.4. Обработка персональных данных необходима для исполнения договора, стороной которого либо выгодоприобретателем или поручителем по которому является субъект персональных данных, а также для заключения договора по инициативе субъекта персональных данных или договора, по которому субъект персональных данных будет являться выгодоприобретателем или поручителем.
+7.5. Обработка персональных данных необходима для осуществления прав и законных интересов оператора или третьих лиц либо для достижения общественно значимых целей при условии, что при этом не нарушаются права и свободы субъекта персональных данных.
+7.6. Осуществляется обработка персональных данных, доступ неограниченного круга лиц к которым предоставлен субъектом персональных данных либо по его просьбе (далее — общедоступные персональные данные).
+7.7. Осуществляется обработка персональных данных, подлежащих опубликованию или обязательному раскрытию в соответствии с федеральным законом.
+## 8. Порядок сбора, хранения, передачи и других видов обработки персональных данных
+Безопасность персональных данных, которые обрабатываются Оператором, обеспечивается путем реализации правовых, организационных и технических мер, необходимых для выполнения в полном объеме требований действующего законодательства в области защиты персональных данных.
+8.1. Оператор обеспечивает сохранность персональных данных и принимает все возможные меры, исключающие доступ к персональным данным неуполномоченных лиц.
+8.2. Персональные данные Пользователя никогда, ни при каких условиях не будут переданы третьим лицам, за исключением случаев, связанных с исполнением действующего законодательства либо в случае, если субъектом персональных данных дано согласие Оператору на передачу данных третьему лицу для исполнения обязательств по гражданско-правовому договору.
+8.3. В случае выявления неточностей в персональных данных, Пользователь может актуализировать их самостоятельно, путем направления Оператору уведомление на адрес электронной почты Оператора admin@vass-group.xyz с пометкой «Актуализация персональных данных».
+8.4. Срок обработки персональных данных определяется достижением целей, для которых были собраны персональные данные, если иной срок не предусмотрен договором или действующим законодательством.
+Пользователь может в любой момент отозвать свое согласие на обработку персональных данных, направив Оператору уведомление посредством электронной почты на электронный адрес Оператора admin@vass-group.xyz с пометкой «Отзыв согласия на обработку персональных данных».
+8.5. Вся информация, которая собирается сторонними сервисами, в том числе платежными системами, средствами связи и другими поставщиками услуг, хранится и обрабатывается указанными лицами (Операторами) в соответствии с их Пользовательским соглашением и Политикой конфиденциальности. Субъект персональных данных и/или с указанными документами. Оператор не несет ответственность за действия третьих лиц, в том числе указанных в настоящем пункте поставщиков услуг.
+8.6. Установленные субъектом персональных данных запреты на передачу (кроме предоставления доступа), а также на обработку или условия обработки (кроме получения доступа) персональных данных, разрешенных для распространения, не действуют в случаях обработки персональных данных в государственных, общественных и иных публичных интересах, определенных законодательством РФ.
+8.7. Оператор при обработке персональных данных обеспечивает конфиденциальность персональных данных.
+8.8. Оператор осуществляет хранение персональных данных в форме, позволяющей определить субъекта персональных данных, не дольше, чем этого требуют цели обработки персональных данных, если срок хранения персональных данных не установлен федеральным законом, договором, стороной которого, выгодоприобретателем или поручителем по которому является субъект персональных данных.
+8.9. Условием прекращения обработки персональных данных может являться достижение целей обработки персональных данных, истечение срока действия согласия субъекта персональных данных, отзыв согласия субъектом персональных данных или требование о прекращении обработки персональных данных, а также выявление неправомерной обработки персональных данных.
+## 9. Перечень действий, производимых Оператором с полученными персональными данными
+9.1. Оператор осуществляет сбор, запись, систематизацию, накопление, хранение, уточнение (обновление, изменение), извлечение, использование, передачу (распространение, предоставление, доступ), обезличивание, блокирование, удаление и уничтожение персональных данных.
+9.2. Оператор осуществляет автоматизированную обработку персональных данных с получением и/или передачей полученной информации по информационно-телекоммуникационным сетям или без таковой.
+## 10. Трансграничная передача персональных данных
+10.1. Оператор до начала осуществления деятельности по трансграничной передаче персональных данных обязан уведомить уполномоченный орган по защите прав субъектов персональных данных о своем намерении осуществлять трансграничную передачу персональных данных (такое уведомление направляется отдельно от уведомления о намерении осуществлять обработку персональных данных).
+10.2. Оператор до подачи вышеуказанного уведомления, обязан получить от органов власти иностранного государства, иностранных физических лиц, иностранных юридических лиц, которым планируется трансграничная передача персональных данных, соответствующие сведения.
+## 11. Конфиденциальность персональных данных
+Оператор и иные лица, получившие доступ к персональным данным, обязаны не раскрывать третьим лицам и не распространять персональные данные без согласия субъекта персональных данных, если иное не предусмотрено федеральным законом.
+## 12. Заключительные положения
+12.1. Пользователь может получить любые разъяснения по интересующим вопросам, касающимся обработки его персональных данных, обратившись к Оператору с помощью электронной почты admin@vass-group.xyz.
+12.2. В данном документе будут отражены любые изменения политики обработки персональных данных Оператором. Политика действует бессрочно до замены ее новой версией.
+12.3. Актуальная версия Политики в свободном доступе расположена в сети Интернет по адресу https://zubrtog.vass-group.xyz/.
